@@ -133,6 +133,9 @@ section {
   color: white;
   text-shadow: 1px 1px 1px black;
 }
+.home-content h4 {
+  font-size: 20px;
+}
 .home-content h3:nth-child(1) {
   margin-top: 10rem;
 }
